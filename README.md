@@ -1,9 +1,8 @@
 # 👋 Hello, I'm Joanne Lee!
 
-🎓 **Management Information Systems Student @ University of Georgia (Terry College of Business)**  
-🎨 Minor in Studio Art | 📍 Atlanta, GA
-📍 Based in Atlanta, GA | 📧 [joanne.lee020405@gmail.com](mailto:joanne.lee020405@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/joanne-mis)
+🎓 **Management Information Systems Student @ University of Georgia**  
+🎨 Minor in Studio Art  
+📍 Based in Atlanta, GA | 💼 [LinkedIn](https://www.linkedin.com/in/joanne-mis) | 📧 [joanne.lee020405@gmail.com](mailto:joanne.lee020405@gmail.com)  
 ---
 
 ## 🌱 About Me
@@ -76,16 +75,6 @@ Figure Drawing • Oil Painting • D&D • Russian Literature • Mechanical Ke
 
 ---
 
-## 📫 Connect with Me
-
-- **Email:** [joanne.lee020405@gmail.com](mailto:joanne.lee020405@gmail.com)
-- **LinkedIn:** [linkedin.com/in/joanne-mis](https://linkedin.com/in/joanne-mis)
-- **Location:** Atlanta, GA
-
----
-
 > “Human life is but a series of footnotes to a vast obscure unfinished masterpiece.” – Vladimir Nabokov
-
----
 
 ✨ Thanks for visiting my profile! Let's connect and build something amazing together.
