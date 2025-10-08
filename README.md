@@ -88,6 +88,4 @@ Figure Drawing • Oil Painting • D&D • Russian Literature • Mechanical Ke
 
 ---
 
-<!--
 ✨ Thanks for visiting my profile! Let's connect and build something amazing together.
--->
