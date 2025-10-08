@@ -43,7 +43,7 @@ _August 2023 – May 2027_
 
 ## 🚀 Academic Projects
 
-- **Java OOP Ordering System**
+- **Java OOP Ordering System** [Bobascript](https://github.com/nayoungjoanne/bobascript)
   - Built in a 5-person team with full OOP principles
   - Features: loyalty program, order history, coupons, guest checkout, admin dashboard planning
 
