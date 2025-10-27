@@ -18,7 +18,6 @@
 **University of Georgia, Terry College of Business**  
 _Bachelor of Business Administration in Management Information Systems_  
 Minor: Studio Art  
-GPA: 3.67/4.0  
 _August 2023 – May 2027_
 
 ---
